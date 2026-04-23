@@ -1,0 +1,20 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperasiQu.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperasiQu.API</BasePath>
+      <RelativePath>uploads/6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

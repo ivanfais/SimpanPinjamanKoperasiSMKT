@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "QktgKGIMLrlEaGpe/K1noLDATHu6bTQL7e+LXAYTruk=",
+  "Source": "KoperasiQu.API",
+  "BasePath": "_content/KoperasiQu.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KoperasiQu.API\\wwwroot",
+      "Source": "KoperasiQu.API",
+      "ContentRoot": "D:\\laragon\\www\\Project KoperasiQu\\KoperasiQu.API\\wwwroot\\",
+      "BasePath": "_content/KoperasiQu.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\laragon\\www\\Project KoperasiQu\\KoperasiQu.API\\wwwroot\\uploads\\6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg",
+      "SourceId": "KoperasiQu.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\laragon\\www\\Project KoperasiQu\\KoperasiQu.API\\wwwroot\\",
+      "BasePath": "_content/KoperasiQu.API",
+      "RelativePath": "uploads/6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6e5f1efa-4496-4de7-84d4-d5e999fff715_1c94ac1a-0b9f-4b09-844d-e432940d7966.jpeg"
+    }
+  ]
+}
